@@ -1,0 +1,72 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Ball_Start_m6E8CBDA3753768BAFE8CE82AD74B01E8355C50D3 (void);
+extern void Ball_Update_mE1E2A0FEFCA0034896BB36FD9C75718E4D14E3B2 (void);
+extern void Ball_Swipe_m7FC8DC615C3C8CE81E7983698881EDA42DF1FDC3 (void);
+extern void Ball_OnCollisionEnter_m2CBD6B8B504E7715B679BAEA26C98041F34FB514 (void);
+extern void Ball_Constraints_m15F99FCB1419A7064330AEE809292F4214A92F61 (void);
+extern void Ball__ctor_mDFF93D8FA13BD70DF4F2FA2B9B402E3B10BD6EDC (void);
+extern void GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2 (void);
+extern void GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41 (void);
+extern void GameManager_LevelUpdate_m6BA2AE2E60C11FEF56495680E343C019BCF05A68 (void);
+extern void GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[12] = 
+{
+	Ball_Start_m6E8CBDA3753768BAFE8CE82AD74B01E8355C50D3,
+	Ball_Update_mE1E2A0FEFCA0034896BB36FD9C75718E4D14E3B2,
+	Ball_Swipe_m7FC8DC615C3C8CE81E7983698881EDA42DF1FDC3,
+	Ball_OnCollisionEnter_m2CBD6B8B504E7715B679BAEA26C98041F34FB514,
+	Ball_Constraints_m15F99FCB1419A7064330AEE809292F4214A92F61,
+	Ball__ctor_mDFF93D8FA13BD70DF4F2FA2B9B402E3B10BD6EDC,
+	GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2,
+	GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41,
+	GameManager_LevelUpdate_m6BA2AE2E60C11FEF56495680E343C019BCF05A68,
+	GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[12] = 
+{
+	5805,
+	5805,
+	5805,
+	4639,
+	5805,
+	5805,
+	5805,
+	5805,
+	5805,
+	5805,
+	8071,
+	5805,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	12,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
